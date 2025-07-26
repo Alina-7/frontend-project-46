@@ -1,0 +1,11 @@
+{"version": 2, "width": 198, "height": 47, "timestamp": 1753558099, "env": {"SHELL": "/bin/zsh", "TERM": "xterm-256color"}}
+[0.030368, "o", "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                     \r \r"]
+[0.030804, "o", "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Ja.k.ivanova@macbook-C4XFWC121D frontend-project-46 % \u001b[K\u001b[?2004h"]
+[3.917841, "o", "\u001b[7m./bin/gendiff.js filepath1.json filepath2.json\u001b[27m"]
+[5.236112, "o", "\u001b[46D\u001b[27m.\u001b[27m/\u001b[27mb\u001b[27mi\u001b[27mn\u001b[27m/\u001b[27mg\u001b[27me\u001b[27mn\u001b[27md\u001b[27mi\u001b[27mf\u001b[27mf\u001b[27m.\u001b[27mj\u001b[27ms\u001b[27m \u001b[27mf\u001b[27mi\u001b[27ml\u001b[27me\u001b[27mp\u001b[27ma\u001b[27mt\u001b[27mh\u001b[27m1\u001b[27m.\u001b[27mj\u001b[27ms\u001b[27mo\u001b[27mn\u001b[27m \u001b[27mf\u001b[27mi\u001b[27ml\u001b[27me\u001b[27mp\u001b[27ma\u001b[27mt\u001b[27mh\u001b[27m2\u001b[27m.\u001b[27mj\u001b[27ms\u001b[27mo\u001b[27mn"]
+[5.236216, "o", "\u001b[?2004l\r\r\n"]
+[5.42563, "o", "{\r\n    - follow: false\r\n      host: hexlet.io\r\n    - proxy: 123.234.53.22\r\n    - timeout: 50\r\n    + timeout: 20\r\n    + verbose: undefined\r\n}\r\n"]
+[5.428434, "o", "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                     \r \r"]
+[5.428508, "o", "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Ja.k.ivanova@macbook-C4XFWC121D frontend-project-46 % \u001b[K\u001b[?2004h"]
+[11.804728, "o", "\u001b[?2004l"]
+[11.804933, "o", "\r\r\n"]
