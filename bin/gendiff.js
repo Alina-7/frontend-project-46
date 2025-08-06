@@ -12,8 +12,8 @@ program
   .option('-h, --help ', 'display help for command')
   .arguments('<filepath1> <filepath2>')
   .action((filepath1, filepath2) => {
-    const [obj1, obj2] = parsingFiles(filepath1, filepath2)
-    console.log(gendiff(obj1, obj2))
+    //const [obj1, obj2] = parsingFiles(filepath1, filepath2)
+    console.log(gendiff(filepath1, filepath2))
   })
 
 program.parse();

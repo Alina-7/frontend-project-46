@@ -11,3 +11,6 @@ The hexlet-check.yml file is responsible for running these tests - do not delete
 
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Alina-7_frontend-project-46&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Alina-7_frontend-project-46)
+
+Пример работы пакета и тест
+[![asciicast](https://asciinema.org/a/1LTin081dMmidC3TfzrWwiRNL.svg)](https://asciinema.org/a/1LTin081dMmidC3TfzrWwiRNL)
