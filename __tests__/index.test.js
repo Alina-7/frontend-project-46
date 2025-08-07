@@ -13,11 +13,13 @@ const expectedResult = fs.readFileSync(getFixturePath('result.txt'), 'utf8').tri
 
 let file1;
 let file2;
+
 beforeAll(() => {
   // Подготавливаем пути к тестовым файлам
   file1 = getFixturePath('file1.json');
   file2 = getFixturePath('file2.json');
 });
+
 
 test('compares files', () => {
   const result = gendiff(file1, file2);
